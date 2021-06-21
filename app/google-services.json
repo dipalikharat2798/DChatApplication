@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "682652814924",
+    "firebase_url": "https://tictactoe-13a34-default-rtdb.firebaseio.com",
+    "project_id": "tictactoe-13a34",
+    "storage_bucket": "tictactoe-13a34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682652814924:android:b0597182744861438c2ee9",
+        "android_client_info": {
+          "package_name": "com.example.dchatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682652814924-bsi22apnsm22s5k8qe9aprsbp47u002i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkQ3IJiFH_FzHeyuf_dyPg2LOZsi_X8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682652814924-bsi22apnsm22s5k8qe9aprsbp47u002i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682652814924:android:f9acdb12a5de14948c2ee9",
+        "android_client_info": {
+          "package_name": "com.example.multiplayertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682652814924-bsi22apnsm22s5k8qe9aprsbp47u002i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkQ3IJiFH_FzHeyuf_dyPg2LOZsi_X8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682652814924-bsi22apnsm22s5k8qe9aprsbp47u002i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682652814924:android:24da7c027f44e8378c2ee9",
+        "android_client_info": {
+          "package_name": "com.example.tictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682652814924-bsi22apnsm22s5k8qe9aprsbp47u002i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVkQ3IJiFH_FzHeyuf_dyPg2LOZsi_X8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682652814924-bsi22apnsm22s5k8qe9aprsbp47u002i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
