@@ -32,7 +32,7 @@ public class HomeActivity extends AppCompatActivity {
     FirebaseDatabase database;
     ArrayList<Users> usersArrayList;
     ImageView imgLogout;
-    ImageView imgSetting;
+    ImageView imgSetting,img_Setting;
     private boolean doubleBackToExitPressedOnce = false;
 
     @Override
@@ -72,6 +72,7 @@ public class HomeActivity extends AppCompatActivity {
         imgLogout = findViewById(R.id.img_logOut);
         imgSetting = findViewById(R.id.img_Setting);
 
+
         mainUserRecyclerView = findViewById(R.id.mainUserRecyclerView);
         mainUserRecyclerView.setLayoutManager(new LinearLayoutManager(this));
         adapter = new UserAdapter(HomeActivity.this, usersArrayList);
@@ -110,7 +111,7 @@ public class HomeActivity extends AppCompatActivity {
         imgSetting.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(HomeActivity.this, HomeActivity.class));
+                startActivity(new Intent(HomeActivity.this, SettingActivity.class));
             }
         });
 
